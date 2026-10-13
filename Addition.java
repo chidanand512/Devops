@@ -1,10 +1,8 @@
-public class Addition
+Public Main
 {
 public static void main(String args[])
 {
-int a;
-a=10;
-b=20;
+int a=10,b=20;
 System.out.println("Sum ="+(a+b));
 }
 }
